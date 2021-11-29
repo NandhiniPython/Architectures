@@ -9,3 +9,6 @@ This dataset contains splendid photographs of architecures as jpg images.
 4. `people`: str['present', 'not present'] - `present` represents presence of people and `not present` represents otherwise.
 
 Annotations are performed manually.
+
+`architecture_labels.jpg` exposes the class distribution of features.
+![img](https://raw.githubusercontent.com/RajkumarGalaxy/Architectures/main/architecture_labels.jpg)
