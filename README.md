@@ -11,4 +11,4 @@ This dataset contains splendid photographs of architecures as jpg images.
 Annotations are performed manually.
 
 `architecture_labels.jpg` exposes the class distribution of features.
-![img](https://raw.githubusercontent.com/RajkumarGalaxy/Architectures/main/architecture_labels.jpg)
+![img](https://raw.githubusercontent.com/NandhiniPython/Architectures/main/architecture_labels.jpg)
