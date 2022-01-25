@@ -189,3 +189,13 @@ file_name,trees,lights_on,people
 188.jpg,present,yes,present
 189.jpg,present,yes,present
 190.jpg,not present,no,present
+191.jpg,not present,yes,present
+192.jpg,present,no,present
+193.jpg,not present,yes,present
+194.jpg,present,no,not present
+195.jpg,present,yes,not present
+196.jpg,present,yes,not present
+197.jpg,present,no,not present
+198.jpg,not present,yes,not present
+199.jpg,present,no,not present
+200.jpg,not present,yes,present
