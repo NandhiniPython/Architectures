@@ -209,3 +209,13 @@ file_name,trees,lights_on,people
 208.jpg,present,no,present
 209.jpg,present,no,present
 210.jpg,present,no,present
+211.jpg,present,no,present
+212.jpg,not present,no,present
+213.jpg,present,no,present
+214.jpg,present,yes,present
+215.jpg,present,no,present
+216.jpg,present,yes,present
+217.jpg,not present,yes,present
+218.jpg,present,yes,present
+219.jpg,present,yes,present
+220.jpg,present,no,not present
